@@ -42,7 +42,7 @@ A full-featured dashboard and public site built with **Next.js**, **TailwindCSS*
 git clone https://github.com/Malikhur/next.js-dashboard.git
 cd next.js-dashboard
 
-### 1. Clone the project
+2. Install dependencies
 npm install
 
 3. Run the development server
