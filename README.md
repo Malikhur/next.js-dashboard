@@ -38,18 +38,17 @@ A full-featured dashboard and public site built with **Next.js**, **TailwindCSS*
 ## 🚀 Getting Started
 
 ### 1. Clone the project
-```bash
 git clone https://github.com/Malikhur/next.js-dashboard.git
 cd next.js-dashboard
 
-2. Install dependencies
+## 2. Install dependencies
 npm install
 
-3. Run the development server
+## 3. Run the development server
 npm run dev
 Open http://localhost:3000 in your browser.
 
-📂 Project Structure
+## 📂 Project Structure
 
 /app
   /admin            → Admin dashboard
