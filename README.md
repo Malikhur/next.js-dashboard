@@ -2,7 +2,7 @@
 
 A full-featured dashboard and public site built with **Next.js**, **TailwindCSS**, **shadcn/ui**, and **React Query** — using the public JSONPlaceholder API for managing posts.
 
-> 🔗 Live Demo: _(add your Vercel link here after deploying)_
+> 🔗 Live Demo: https://next-js-dashboard-c8gi.vercel.app/
 
 ---
 
